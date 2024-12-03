@@ -11,7 +11,6 @@ This folder contains an implementation of an **Image Recognition Similarity Syst
   - Creating and saving image embeddings.
   - Searching for visually similar images.
 - **`fashion.csv`**: Sample dataset containing image paths and metadata for testing the system.
-- **`final_data.pkl`**: Saved embeddings and metadata for faster search without retraining.
 - **`image_simi_db`**: Folder for storing ChromaDB persistent data.
 
 ---
